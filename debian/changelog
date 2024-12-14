@@ -1,0 +1,5 @@
+python3-spacy (3.8.4-1) UNRELEASED; urgency=medium
+
+  * Initial release. (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- gfdgd_xi <3025613752@qq.com>  Sat, 14 Dec 2024 22:52:50 +0800
